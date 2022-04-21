@@ -1,11 +1,12 @@
 <h1 align="center">👋 Hi, I’m Swapnil Maurya </h1>
 
-### - 👀 My interests lies in : **Competitive Coding ,Problem Solving and Web Development** 🖥️
-### - 🌱 I’m looking to collaborate for: **Hackathons**, and other team competitions (Feel free to reach out) 🤗 
+### - 👀 My interests lies in : Competitive Coding ,Problem Solving and Web Development 🖥️
+### - :raising_hand_man:  I am currently learning React JS
+### - 🌱 I’m looking to collaborate for: Hackathons, and other team competitions (Feel free to reach out) 🤗 
 ### - 💞️ Ask me about - DSA (Especially HashMaps, I love solving problems)
-### - 📫 How to reach me **swapu2002@gmail.com**
-### - Portfolio [Link](https://potfolio-072.netlify.app/)
-### - Languages and Tools:
+<br/>
+
+### -:gear:	:gear:	 Languages and Tools:
 <p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
         <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
@@ -24,9 +25,14 @@
                 <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="mysql" width="40" height="40"/> </a>
         <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
                 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-</p>
+</p><br/>
 
-### - Let's Connect:
+### - 📫 How to reach me **swapu2002@gmail.com**
+
+### - :mag: Portfolio [Link](https://potfolio-072.netlify.app/)
+
+
+### - :handshake: Let's Connect:
 <a href="https://www.linkedin.com/in/swapnil-maurya-528071200/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ms-muskan-7bb10b210" height="30" width="40" /></a>
 
 ### -  📄 Know More About Me 
