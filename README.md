@@ -29,7 +29,6 @@
 
 ### - 📫 How to reach me **swapu2002@gmail.com**
 
-### - :mag: Portfolio [Link](https://potfolio-072.netlify.app/)
 
 
 ### - :handshake: Let's Connect:
